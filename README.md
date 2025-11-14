@@ -1,173 +1,251 @@
 <div align="center">
 
-# Hi there, I'm R. Arunnprakash! 👋
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  ██████╗ ██████╗ ███╗   ██╗███████╗ ██████╗████████╗███████╗ ║
+║  ██╔══██╗██╔══██╗████╗  ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝ ║
+║  ██║  ██║██████╔╝██╔██╗ ██║█████╗  ██║        ██║   █████╗   ║
+║  ██║  ██║██╔══██╗██║╚██╗██║██╔══╝  ██║        ██║   ██╔══╝   ║
+║  ██████╔╝██║  ██║██║ ╚████║███████╗╚██████╗   ██║   ███████╗ ║
+║  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝   ╚══════╝ ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-### 🎓 Aspiring E-Commerce Entrepreneur | 💻 2nd Year Engineering Student
+### `> R.ARUNNPRAKASH_`
+### `> ENGINEERING.STUDENT@PSR_COLLEGE`
+### `> STATUS: [ONLINE] ████████████████ 100%`
 
-[![GitHub followers](https://img.shields.io/github/followers/Arunnprakash-R?label=Follow&style=social)](https://github.com/Arunnprakash-R)
-[![GitHub stars](https://img.shields.io/github/stars/Arunnprakash-R?label=Stars&style=social)](https://github.com/Arunnprakash-R)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate **Engineering Student** from **P.S.R Engineering College, Sivakasi, Tamil Nadu** with a strong interest in **Full-Stack Development**, **IoT Projects**, and **AI/ML Applications**. I love participating in hackathons and building innovative solutions that solve real-world problems!
-
-- 🎯 Currently working on: **EcoForge** (IoT-based soil health monitoring system)
-- 🌱 Building: **Microplastics detection system** using fluorescence microscopy
-- 🤖 Developing: **AI-powered chatbot** with multiple LLM integrations
-- 🛡️ Creating: **AI cybersecurity protection system**
-- 📚 Learning: **Full-Stack Web Development**, **React Native**, **Django**
-- 👥 Open to: **Freelancing opportunities** and **Collaboration** on innovative projects
-- 💬 Ask me about: **Web Development**, **IoT**, **Python**, **React.js**
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### **AI & Prompt Engineering**
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-FF6F61?style=flat-square&logo=chatbot&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black)
-![TinkerCAD](https://img.shields.io/badge/-TinkerCAD-1C9AD6?style=flat-square&logo=tinkercad&logoColor=white)
-
-### **IoT & Hardware**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![IoT](https://img.shields.io/badge/-IoT-0066CC?style=flat-square&logo=internet-of-things&logoColor=white)
-
----
-
-## 🏆 Hackathons & Achievements
-
-- 🥇 **SRM Smart Park Hackathon 2025** - Participant
-- 🥇 **CICADA'25** - Participant
-- 🥇 **SIH 2025 (Smart India Hackathon)** - Participant
-- 🥇 **Ramco HackInfinity** - Participant
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Arunnprakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunnprakash-R&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunnprakash-R&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arunnprakash-R&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Aspiring+E-Commerce+Entrepreneur;Full-Stack+Developer;IoT+%26+AI+Enthusiast;Building+The+Future+With+Code)
 
 </div>
 
----
+```python
+class Developer:
+    def __init__(self):
+        self.name = "R. Arunnprakash"
+        self.role = "Engineering Student"
+        self.location = "Sivakasi, TN"
+        self.education = "P.S.R Engineering College"
+        self.languages = ["Python", "JavaScript", "C++", "C"]
+        self.status = "Learning & Building"
+    
+    def current_projects(self):
+        return [
+            "🌱 EcoForge - IoT Soil Health Monitor",
+            "🔬 Microplastics Detection System",
+            "🤖 AI-Powered Multi-LLM Chatbot",
+            "🛡️ AI Cybersecurity Protection"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing!")
 
-## 💡 Featured Projects
-
-### 🌱 [EcoForge - Soil Health Monitoring System](https://github.com/Arunnprakash-R)
-**IoT-based environmental monitoring solution**
-- Real-time soil health data visualization
-- FastAPI backend + React.js frontend
-- PostgreSQL database integration
-- Hardware-software integration with sensors
-
-### 🔬 [Microplastics Detection System](https://github.com/Arunnprakash-R)
-**Fluorescence microscopy-based detection**
-- Environmental technology solution
-- Advanced image processing
-- Research-focused application
-
-### 🤖 [AI-Powered Chatbot](https://github.com/Arunnprakash-R/talking-bot)
-**Multi-LLM integration chatbot**
-- C++ implementation with OpenAI API
-- Intelligent conversation handling
-- Lightweight and efficient
-
-### 🛡️ [AI Cybersecurity Protection System](https://github.com/Arunnprakash-R)
-**ML-based threat detection**
-- Real-time security monitoring
-- AI-powered threat analysis
-- Automated response system
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const currentFocus = {
-    learning: ["React Native", "Django Framework", "Advanced React.js Patterns"],
-    building: ["Full-Stack Applications", "IoT Prototypes", "AI Solutions"],
-    exploring: ["Freelancing Platforms", "E-Commerce Solutions", "Environmental Tech"],
-    goals: ["Tech Internships", "Open Source Contributions", "Startup Ideas"]
-};
+dev = Developer()
+dev.say_hi()
 ```
 
 ---
 
-## 🔗 Connect With Me
+## `>_ SYSTEM.METRICS`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arunnprakash-R)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunnprakash-r)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunnprakashsrivai@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Arunnprakash-R)
+![](https://github-readme-stats.vercel.app/api?username=Arunnprakash-R&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunnprakash-R&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&langs_count=8)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arunnprakash-R&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
 </div>
 
 ---
 
-## 📚 Learning Resources
+## `>_ TECH.STACK`
 
-I'm continuously learning from:
-- 🏫 **CS50** - Harvard's Computer Science Course
+```bash
+$ ls -la ~/skills/
+```
+
+### **⚡ CORE_LANGUAGES**
+![Python](https://img.shields.io/badge/Python-00ff00?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-00ff00?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00ff00?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![C](https://img.shields.io/badge/C-00ff00?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-00ff00?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-00ff00?style=for-the-badge&logo=css3&logoColor=black)
+
+### **🎨 FRONTEND.FRAMEWORK**
+![React](https://img.shields.io/badge/React-00ff00?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-00ff00?style=for-the-badge&logo=next.js&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-00ff00?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-00ff00?style=for-the-badge&logo=tailwind-css&logoColor=black)
+
+### **⚙️ BACKEND.ENGINE**
+![Node.js](https://img.shields.io/badge/Node.js-00ff00?style=for-the-badge&logo=node.js&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-00ff00?style=for-the-badge&logo=fastapi&logoColor=black)
+![Django](https://img.shields.io/badge/Django-00ff00?style=for-the-badge&logo=django&logoColor=black)
+![Express](https://img.shields.io/badge/Express-00ff00?style=for-the-badge&logo=express&logoColor=black)
+
+### **💾 DATABASE.SYSTEMS**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00ff00?style=for-the-badge&logo=postgresql&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00ff00?style=for-the-badge&logo=mysql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-00ff00?style=for-the-badge&logo=mongodb&logoColor=black)
+
+### **🤖 AI.PROMPT_ENGINEERING**
+![OpenAI](https://img.shields.io/badge/OpenAI-00ff00?style=for-the-badge&logo=openai&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00ff00?style=for-the-badge&logo=openai&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00ff00?style=for-the-badge&logoColor=black)
+
+### **🛠️ DEV.TOOLS**
+![Git](https://img.shields.io/badge/Git-00ff00?style=for-the-badge&logo=git&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-00ff00?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-00ff00?style=for-the-badge&logo=docker&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Colab-00ff00?style=for-the-badge&logo=google-colab&logoColor=black)
+
+### **🔌 IoT.HARDWARE**
+![Arduino](https://img.shields.io/badge/Arduino-00ff00?style=for-the-badge&logo=arduino&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-00ff00?style=for-the-badge&logo=raspberry-pi&logoColor=black)
+
+---
+
+## `>_ CURRENT.FOCUS`
+
+```terminal
+┌─[arunnprakash@dev-machine]─[~/projects]
+└──╼ $ cat current_focus.txt
+
+[████████████████████] 100% Learning React Native
+[████████████████████] 100% Mastering Django Framework  
+[█████████████░░░░░░░]  65% Advanced React.js Patterns
+[███████████████████░]  95% Full-Stack Development
+[████████████████░░░░]  80% IoT System Integration
+[███████████████████░]  90% AI & Prompt Engineering
+
+┌─[STATUS]────────────────────────────┐
+│ > Building Tomorrow's Solutions     │
+│ > Exploring E-Commerce Tech         │
+│ > Open to Collaborations            │
+│ > Seeking Tech Internships          │
+└─────────────────────────────────────┘
+```
+
+---
+
+## `>_ FEATURED.PROJECTS`
+
+<details>
+<summary>🌱 <b>ECOFORGE - Soil Health Monitoring</b></summary>
+
+```
+[PROJECT_TYPE]: IoT + Full-Stack Web Application
+[TECH_STACK] : FastAPI, React.js, PostgreSQL, IoT Sensors
+[STATUS]     : In Development
+[DESCRIPTION]: Real-time environmental monitoring solution
+               for soil health analysis using IoT sensors
+```
+</details>
+
+<details>
+<summary>🔬 <b>MICROPLASTICS DETECTION SYSTEM</b></summary>
+
+```
+[PROJECT_TYPE]: Environmental Tech + Image Processing
+[TECH_STACK] : Python, Fluorescence Microscopy, ML
+[STATUS]     : Research Phase
+[DESCRIPTION]: Advanced detection system using fluorescence
+               microscopy for microplastics identification
+```
+</details>
+
+<details>
+<summary>🤖 <b>AI-POWERED CHATBOT</b></summary>
+
+```
+[PROJECT_TYPE]: AI Integration + NLP
+[TECH_STACK] : C++, OpenAI API, Multi-LLM
+[STATUS]     : Active Development
+[REPO]       : github.com/Arunnprakash-R/talking-bot
+[DESCRIPTION]: Intelligent chatbot with multiple LLM support
+```
+</details>
+
+<details>
+<summary>🛡️ <b>AI CYBERSECURITY SYSTEM</b></summary>
+
+```
+[PROJECT_TYPE]: ML-based Security Solution
+[TECH_STACK] : Python, Machine Learning
+[STATUS]     : Development
+[DESCRIPTION]: Real-time threat detection with AI
+```
+</details>
+
+---
+
+## `>_ HACKATHON.ACHIEVEMENTS`
+
+```ascii
+╔════════════════════════════════════════╗
+║  🏆  SIH 2025 - Participant           ║
+║  🏆  Ramco HackInfinity - Participant ║
+╚════════════════════════════════════════╝
+```
+
+---
+
+## `>_ CONNECT.NETWORK`
+
+<div align="center">
+
+```
+[ESTABLISHING_CONNECTION...]
+[████████████████████] 100%
+[CONNECTION_ESTABLISHED]
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Arunnprakash-R)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/arunnprakash-r)
+[![Email](https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:arunnprakashsrivai@gmail.com)
+
+</div>
+
+---
+
+## `>_ LEARNING.PATH`
+
+```bash
+$ cat ~/learning/resources.log
+```
+
+- 🎓 **CS50** - Harvard's Computer Science Course
 - 💻 **Udemy** - Web Development & Programming
-- 🎓 **Simplilearn** - Tech Certifications
-- 👼 **Forage** - Virtual Internship Programs
+- 📚 **Simplilearn** - Tech Certifications  
+- 👨‍💼 **Forage** - Virtual Internship Programs
 
 ---
 
 <div align="center">
 
-### 💡 "Building tomorrow's solutions with today's technology"
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  "In the Matrix of code, we shape reality one line       ║
+║   at a time. Building tomorrow's solutions today."       ║
+║                                                           ║
+║  > SYSTEM_STATUS: OPERATIONAL                            ║
+║  > MOTIVATION_LEVEL: MAXIMUM                             ║
+║  > COFFEE_INTAKE: OPTIMAL                                ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arunnprakash-R&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Arunnprakash-R&color=00ff00&style=for-the-badge&label=PROFILE_VIEWS)
 
-**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
+### `> Thanks for visiting! Star ⭐ my repos if you find them interesting!`
+
+```
+[DISCONNECTING...]
+[█░░░░░░░░░░░░░░░░░░░] 5%
+```
 
 </div>
