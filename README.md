@@ -25,7 +25,7 @@ I'm a passionate **Engineering Student** from **P.S.R Engineering College, Sivak
 - 🌱 Building: **Microplastics detection system** using fluorescence microscopy
 - 🔭 Exploring: **AI-powered cybersecurity solutions**
 - 💼 Looking for: **Internship opportunities** in Full-Stack Development
-- 📫 Reach me: **arunprakash31082005@gmail.com**
+- 📫 Reach me: **arunnprakashsrivai@gmail.com**
 
 ---
 
@@ -110,7 +110,7 @@ AI-powered threat detection and prevention system for protecting against cyber a
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunprakash31082005@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunnprakashsrivai@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunnprakash-r)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arunnprakash-R)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Arunnprakash_R)
