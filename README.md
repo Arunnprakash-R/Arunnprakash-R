@@ -62,10 +62,10 @@ I'm a passionate **Engineering Student** from **P.S.R Engineering College, Sivak
 
 ## 🏆 Hackathons & Achievements
 
-- 🥇 **SRM Smart Park Hackathon 2025** - Participant
-- 🥇 **CICADA'25** - Participant
+- 🥇 **MSME 2025"" - Participant
 - 🥇 **Smart India Hackathon 2025** - Participant
 - 🥇 **Ramco HackInfinity** - Participant
+- 🥇 **Kalasalingam Hackathon 2025** - Runnerups
 
 ---
 
